@@ -1,4 +1,4 @@
 # Ads
 Ads By Zorexweb
 
-<a href="https://zorexweb.com">Zorexweb</a>
+<a href="https://zorexweb.com" rel="dofollow">Zorexweb</a>
